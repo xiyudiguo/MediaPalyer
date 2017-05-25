@@ -1,6 +1,6 @@
-#<center>MediaPalyer</center>
+# <center>MediaPalyer</center>
 
-###一、单独使用MediaPalyer只是播放音频；  
+### 一、单独使用MediaPalyer只是播放音频；  
 
 播放音频只需要实例化MediaPalyer、设置播放文件、异步（同步）装载文件、调用播放。
 
@@ -19,7 +19,7 @@
 具体请看该博客[MediaPalyer](http://blog.csdn.net/u014365133/article/details/53330776)中常用方法以及一些技巧
 
 
-###二、使用SurfaceView+MediaPlayer,播放视频
+### 二、使用SurfaceView+MediaPlayer,播放视频
 
 **比播放音频多出下面内容**
 
